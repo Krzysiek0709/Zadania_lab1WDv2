@@ -1,0 +1,10 @@
+import math
+print("\n a)\n")
+print(math.e**10)
+print("\n b)\n")
+a= pow((math.log(5+((math.sin(8.00)**2)))),1/6)
+print (a)
+print("\n c)\n")
+print(math.floor(3.55))
+print("\n d)\n")
+print(math.ceil(4.80))
